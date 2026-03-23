@@ -1,66 +1,123 @@
-# 👋 Hi, I'm Vinod Prabhashvara
+<h1 align="center">⚡ Vinod Prabhashvara ⚡</h1>
 
-🚀 IoT & Hardware Penetration Tester  
-🔐 Offensive Security | Embedded Systems | Firmware Analysis  
-⚡ CTF Player | Builder | Breaker  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IoT+%26+Hardware+Pentester;Embedded+Security+Researcher;Firmware+Analysis+%26+Exploitation;CTF+Player+%7C+Builder+%7C+Breaker;Offensive+Security+Enthusiast" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinodPrabhashvara&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🧠 About Me
-- 🔍 Passionate about breaking and securing IoT devices  
-- 🛠 Building tools for penetration testing & automation  
-- 🧪 Focused on firmware analysis, reverse engineering & exploitation  
-- 🏴‍☠️ Active in CTF challenges (Web, Forensics, OSINT, Reversing)  
+- 🔐 IoT & Hardware Penetration Tester  
+- ⚡ Focused on Embedded Systems & Exploitation  
+- 🧪 Firmware Analysis & Reverse Engineering  
+- 🛠 Building Pentesting Tools (CLI + Automation)  
+- 🏴‍☠️ Active CTF Player (HTB, Labs)  
 
 ---
 
-## ⚙️ Tech Stack
+## 🌐 My Profiles
+- 🧠 Hack The Box → https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990  
+- 🎓 SDC SU → https://sdcsu.edu.lk/  
+- 📸 Instagram → https://www.instagram.com/vinod_prabhashvara  
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+---
 
-### 🔐 Security & Pentesting
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+## 🚀 Tech Arsenal
 
-### 🔧 Tools & Frameworks
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,docker" />
+</p>
+
+---
+
+## 🔐 Security Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinodPrabhashvara&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodPrabhashvara&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinodPrabhashvara&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 ## 🧰 Featured Projects
-- 🛠 **Scanvanta** – CLI-based pentesting automation tool  
-- 🔍 IoT Security Toolkit – Embedded device analysis & exploitation  
-- ⚡ Custom CTF Tools – Scripts for OSINT, Forensics & Reversing  
+
+🔹 **Scanvanta**  
+> CLI-based penetration testing automation framework  
+
+🔹 **IoT Exploitation Toolkit**  
+> Embedded device analysis & hardware attack tools  
+
+🔹 **CTF Toolkit**  
+> Scripts for OSINT, Forensics, Reversing  
 
 ---
 
-## 🌐 Connect With Me
-- GitHub: https://github.com/VinodPrabhashvara
-- LinkedIn: (add if you have)
-- Portfolio: (optional)
+## 🧠 Current Focus
+- 🔬 Advanced Firmware Exploitation  
+- ⚡ IoT Device Attacks  
+- 🛠 Building Offensive CLI Tools  
+- 🧩 Solving Advanced CTF Challenges  
 
 ---
 
-## ⚡ Fun Fact
-> "I break systems to make them stronger."
+## ⚡ Hacker Quote
+
+> "Break. Analyze. Exploit. Secure."
 
 ---
+
+## 🧬 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VinodPrabhashvara/VinodPrabhashvara/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔻 Terminal Style Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
