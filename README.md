@@ -111,24 +111,6 @@ Custom scripts and helpers for OSINT, forensics, reversing, and pentesting chall
 
 ---
 
-## Connect With Me
-
-<p align="left">
-  <a href="mailto:vinodprabhashvara@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/vinod_prabhashvara">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
-  </a>
-</p>
-
-- Hack The Box: https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990
-- SDC SU: https://sdcsu.edu.lk/
-- Instagram: https://www.instagram.com/vinod_prabhashvara
-- Email: vinodprabhashvara@gmail.com
-
----
-
 ## Current Focus
 
 - Advanced hardware and IoT pentesting
