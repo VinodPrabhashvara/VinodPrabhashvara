@@ -1,123 +1,144 @@
-<h1 align="center">⚡ Vinod Prabhashvara ⚡</h1>
+<h1 align="center">Vinod Prabhashvara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=IoT+%26+Hardware+Pentester;Embedded+Security+Researcher;Firmware+Analysis+%26+Exploitation;CTF+Player+%7C+Builder+%7C+Breaker;Offensive+Security+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=IoT+%26+Hardware+Penetration+Tester;Embedded+Security+Researcher;Firmware+Analysis+%7C+Reverse+Engineering" />
+</p>
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990">Hack The Box</a> •
+  <a href="https://sdcsu.edu.lk/">SDC SU</a> •
+  <a href="https://www.instagram.com/vinod_prabhashvara">Instagram</a>
 </p>
 
 ---
 
+## About
+
+IoT & Hardware Penetration Tester focused on embedded systems, firmware analysis, and offensive security research.  
+I work on understanding systems at a low level and identifying real-world vulnerabilities.
+
+---
+
+## Core Expertise
+
+- Embedded & IoT Security  
+- Firmware Analysis & Extraction  
+- Reverse Engineering  
+- Network & Web Penetration Testing  
+- Vulnerability Research  
+
+---
+
+## Technical Stack
+
+**Languages**  
+Python, C, Bash  
+
+**Systems**  
+Linux, Docker, Git  
+
+**Security Tools**  
+Nmap, Burp Suite, Wireshark, Metasploit, Ghidra  
+
+---
+
+## Projects
+
+### Scanvanta — Penetration Testing Automation Framework
+CLI-based framework to automate reconnaissance and vulnerability scanning workflows.
+
+**Architecture**
+```
+User Input
+   ↓
+CLI Interface (Typer)
+   ↓
+Core Engine
+   ├── Scanner Modules
+   ├── Payload Manager
+   ├── Reporting Engine
+   ↓
+Output (Reports / Logs / Sessions)
+```
+
+**Highlights**
+- Modular scanning engine  
+- Automated workflows  
+- Report generation  
+- Session tracking  
+
+---
+
+### IoT Security Toolkit
+Toolkit for analyzing and exploiting embedded devices.
+
+- Firmware extraction & analysis  
+- Static and dynamic testing  
+- Device interaction scripts  
+
+---
+
+### CTF Toolkit
+Custom scripts for:
+- OSINT  
+- Forensics  
+- Reverse engineering  
+
+---
+
+## Writeups
+
+- HTB — Privilege escalation via misconfigured service  
+- Forensics — Memory analysis using Volatility  
+- OSINT — Data correlation techniques  
+
+(Add real writeups later)
+
+---
+
+## Research Logs
+
+- Firmware unpacking techniques  
+- Binary analysis experiments  
+- IoT communication protocols  
+- Exploit development fundamentals  
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinodPrabhashvara&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🔐 IoT & Hardware Penetration Tester  
-- ⚡ Focused on Embedded Systems & Exploitation  
-- 🧪 Firmware Analysis & Reverse Engineering  
-- 🛠 Building Pentesting Tools (CLI + Automation)  
-- 🏴‍☠️ Active CTF Player (HTB, Labs)  
+## Current Focus
+
+- Advanced firmware exploitation  
+- IoT attack surface analysis  
+- Offensive security tool development  
 
 ---
 
-## 🌐 My Profiles
-- 🧠 Hack The Box → https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990  
-- 🎓 SDC SU → https://sdcsu.edu.lk/  
-- 📸 Instagram → https://www.instagram.com/vinod_prabhashvara  
+## Contact
+
+- Email: vinodprabhashvara@gmail.com  
+- Hack The Box: https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990  
 
 ---
 
-## 🚀 Tech Arsenal
+## Philosophy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,git,docker" />
-</p>
-
----
-
-## 🔐 Security Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge" />
-</p>
+Understand systems deeply.  
+Break them intentionally.  
+Secure them effectively.  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinodPrabhashvara&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinodPrabhashvara&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinodPrabhashvara&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 🧰 Featured Projects
-
-🔹 **Scanvanta**  
-> CLI-based penetration testing automation framework  
-
-🔹 **IoT Exploitation Toolkit**  
-> Embedded device analysis & hardware attack tools  
-
-🔹 **CTF Toolkit**  
-> Scripts for OSINT, Forensics, Reversing  
-
----
-
-## 🧠 Current Focus
-- 🔬 Advanced Firmware Exploitation  
-- ⚡ IoT Device Attacks  
-- 🛠 Building Offensive CLI Tools  
-- 🧩 Solving Advanced CTF Challenges  
-
----
-
-## ⚡ Hacker Quote
-
-> "Break. Analyze. Exploit. Secure."
-
----
-
-## 🧬 Snake Contribution Animation
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VinodPrabhashvara/VinodPrabhashvara/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔻 Terminal Style Footer
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 </p>
