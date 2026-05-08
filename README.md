@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,100:0A0A0A&height=190&section=header&text=Vinod%20Prabhashvara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Security%20Pentester%20%7C%20Hardware%20%26%20IoT%20Pentester%20%7C%20PLC%20Developer&descSize=15&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,100:0A0A0A&height=190&section=header&text=Vinod%20Prabhashvara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Security%20Pentester%20%7C%20Hardware%20and%20IoT%20Pentester%20%7C%20PLC%20Developer&descSize=15&descAlignY=58" alt="Header" />
 </p>
 
 <h1 align="center">Vinod Prabhashvara</h1>
 
 <p align="center">
-  <b>Ethical Hacker | Security Pentester | Hardware & IoT Pentester | Embedded Security Researcher | PLC Developer</b>
+  <b>Ethical Hacker | Security Pentester | Hardware and IoT Pentester | Embedded Security Researcher | PLC Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Ethical+Hacker+%26+Security+Pentester;Hardware+%26+IoT+Pentester;Embedded+Security+Researcher;Firmware+Analysis+%7C+Reverse+Engineering;PLC+Developer+%7C+Automation+Systems;Break.+Understand.+Secure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Ethical+Hacker+and+Security+Pentester;Hardware+and+IoT+Pentester;Embedded+Security+Researcher;Firmware+Analysis+and+Reverse+Engineering;PLC+Developer+and+Automation+Systems;Break.+Understand.+Secure." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ethical%20Hacker-00D084?style=for-the-badge" alt="Ethical Hacker" />
   <img src="https://img.shields.io/badge/Security%20Pentester-111111?style=for-the-badge" alt="Security Pentester" />
-  <img src="https://img.shields.io/badge/Hardware%20%26%20IoT%20Pentester-00FF9C?style=for-the-badge" alt="Hardware and IoT Pentester" />
+  <img src="https://img.shields.io/badge/Hardware%20and%20IoT%20Pentester-00FF9C?style=for-the-badge" alt="Hardware and IoT Pentester" />
   <img src="https://img.shields.io/badge/PLC%20Developer-0A0A0A?style=for-the-badge" alt="PLC Developer" />
 </p>
 
@@ -38,11 +38,11 @@
 
 ## 👨‍💻 About Me
 
-I am **Vinod Prabhashvara**, an **Ethical Hacker, Security Pentester, Hardware & IoT Penetration Tester, Embedded Security Researcher, and PLC Developer**.
+I am **Vinod Prabhashvara**, an **Ethical Hacker, Security Pentester, Hardware and IoT Penetration Tester, Embedded Security Researcher, and PLC Developer**.
 
-My work focuses on identifying and understanding security weaknesses in **web applications, networks, embedded systems, IoT devices, firmware, hardware interfaces, and automation systems**. I am interested in how systems work internally, how they fail, and how they can be secured through responsible research and practical testing.
+My work focuses on identifying and understanding security weaknesses in **web applications, networks, embedded systems, IoT devices, firmware, hardware interfaces, and automation systems**.
 
-I work with offensive security tools, embedded platforms, scripting, automation, firmware analysis, and real-world penetration testing workflows.
+I am interested in how systems work internally, how they fail, and how they can be improved through responsible security research, testing, automation, and secure development.
 
 ---
 
@@ -65,7 +65,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 ## 🧠 Core Security Skills
 
 <details>
-  <summary><b>🔐 Web & Network Penetration Testing</b></summary>
+  <summary><b>🔐 Web and Network Penetration Testing</b></summary>
   <br>
   <ul>
     <li>Reconnaissance and enumeration</li>
@@ -78,7 +78,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 </details>
 
 <details>
-  <summary><b>📡 Hardware & IoT Security</b></summary>
+  <summary><b>📡 Hardware and IoT Security</b></summary>
   <br>
   <ul>
     <li>IoT device attack surface analysis</li>
@@ -91,7 +91,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 </details>
 
 <details>
-  <summary><b>🧩 Firmware Analysis & Reverse Engineering</b></summary>
+  <summary><b>🧩 Firmware Analysis and Reverse Engineering</b></summary>
   <br>
   <ul>
     <li>Firmware extraction and unpacking</li>
@@ -104,7 +104,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 </details>
 
 <details>
-  <summary><b>🏭 PLC & Automation Development</b></summary>
+  <summary><b>🏭 PLC and Automation Development</b></summary>
   <br>
   <ul>
     <li>PLC-based control system development</li>
@@ -118,7 +118,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 
 ---
 
-## ⚙️ Languages & Technologies
+## ⚙️ Languages and Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,js,html,css,php,c,cpp,python,ruby,java,go,rust,mysql" alt="Languages and Technologies" />
@@ -143,7 +143,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 
 ---
 
-## 🛠 Tools & Platforms
+## 🛠 Tools and Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,arduino,raspberrypi" alt="Tools and Platforms" />
@@ -169,7 +169,7 @@ I work with offensive security tools, embedded platforms, scripting, automation,
 | **Security Tools** | Custom scripts and utilities for reconnaissance, scanning, automation, and testing workflows |
 | **IoT Security Labs** | Practical environments for testing embedded devices and IoT attack surfaces |
 | **Firmware Analysis Workflows** | Methods for unpacking, reviewing, and analyzing embedded firmware |
-| **PLC & Automation Projects** | Industrial control, automation logic, and embedded automation experiments |
+| **PLC and Automation Projects** | Industrial control, automation logic, and embedded automation experiments |
 | **CTF Utilities** | Helper tools for reversing, forensics, OSINT, web, and exploitation challenges |
 | **Web Security Projects** | Secure web applications, testing labs, and vulnerability research environments |
 
@@ -237,7 +237,7 @@ I am currently focused on improving my skills in:
 ## 💼 Professional Identity
 
 <p align="center">
-  <b>Ethical Hacker • Security Pentester • Hardware & IoT Pentester • Embedded Security Researcher • PLC Developer</b>
+  <b>Ethical Hacker • Security Pentester • Hardware and IoT Pentester • Embedded Security Researcher • PLC Developer</b>
 </p>
 
 <p align="center">
