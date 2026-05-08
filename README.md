@@ -1,12 +1,242 @@
-<h1 align="center">Vinod Prabhashvara</h1>
-
 <p align="center">
-  <b>Hardware & IoT Penetration Tester | Embedded Security Researcher | Firmware Analyst</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,50:0A0A0A,100:00FF9C&height=180&section=header&text=Vinod%20Prabhashvara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Security%20Pentester%20%7C%20Hardware%20%26%20IoT%20Pentester%20%7C%20PLC%20Developer&descSize=15&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00D084&center=true&vCenter=true&width=850&lines=Hardware+%26+IoT+Security;Embedded+Systems+Penetration+Testing;Firmware+Analysis+%26+Reverse+Engineering;Offensive+Security+Research;Break.+Understand.+Secure." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Ethical+Hacker+%26+Security+Pentester;Hardware+%26+IoT+Penetration+Tester;Embedded+Security+Researcher;Firmware+Analysis+%7C+Reverse+Engineering;PLC+Developer+%7C+Automation+Systems;Break.+Understand.+Secure." alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethical%20Hacker-00D084?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Pentester-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware%20%26%20IoT%20Pentester-00FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PLC%20Developer-0A0A0A?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c7e73-96a4-733a-831e-8570c9ba1990">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  </a>
+  <a href="https://sdcsu.edu.lk/">
+    <img src="https://img.shields.io/badge/SDC%20SU-0A0A0A?style=for-the-badge&logo=academia&logoColor=white" alt="SDC SU" />
+  </a>
+  <a href="https://www.instagram.com/vinod_prabhashvara">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:vinodprabhashvara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am **Vinod Prabhashvara**, an **Ethical Hacker, Security Pentester, Hardware & IoT Penetration Tester, Embedded Security Researcher, and PLC Developer**.
+
+My work focuses on identifying security weaknesses in **web applications, networks, embedded devices, IoT systems, firmware, hardware interfaces, and industrial control environments**. I enjoy analyzing how systems work internally, finding practical attack surfaces, and building tools that help improve security.
+
+I am especially interested in **offensive security research**, **firmware analysis**, **reverse engineering**, **automation security**, **hardware hacking**, and **real-world penetration testing workflows**.
+
+---
+
+## 🎯 Professional Focus
+
+- Ethical hacking and penetration testing
+- Web application security testing
+- Network reconnaissance and vulnerability assessment
+- Hardware and IoT penetration testing
+- Embedded system security research
+- Firmware extraction, unpacking, and analysis
+- Reverse engineering and binary analysis
+- PLC development and industrial automation systems
+- Offensive security tool development
+- CTF, lab-based research, and exploit practice
+- Security automation using scripting and custom tools
+
+---
+
+## 🧠 Core Security Skills
+
+<details>
+  <summary><b>🔐 Web & Network Penetration Testing</b></summary>
+  <br>
+  <ul>
+    <li>Reconnaissance and enumeration</li>
+    <li>Web application vulnerability testing</li>
+    <li>Authentication and access-control testing</li>
+    <li>Security header and misconfiguration analysis</li>
+    <li>Network service scanning and assessment</li>
+    <li>Report writing and vulnerability documentation</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📡 Hardware & IoT Security</b></summary>
+  <br>
+  <ul>
+    <li>IoT device attack surface analysis</li>
+    <li>Embedded hardware testing</li>
+    <li>UART, SPI, I2C, and debug interface research</li>
+    <li>Device configuration and firmware review</li>
+    <li>Wireless and embedded communication analysis</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🧩 Firmware Analysis & Reverse Engineering</b></summary>
+  <br>
+  <ul>
+    <li>Firmware extraction and unpacking</li>
+    <li>Static firmware analysis</li>
+    <li>Binary inspection and reverse engineering</li>
+    <li>Secret, key, and configuration discovery</li>
+    <li>Embedded Linux filesystem analysis</li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🏭 PLC & Automation Development</b></summary>
+  <br>
+  <ul>
+    <li>PLC-based control system development</li>
+    <li>Industrial automation logic</li>
+    <li>Sensor and actuator-based control systems</li>
+    <li>Embedded automation workflows</li>
+    <li>IoT and automation system integration</li>
+  </ul>
+</details>
+
+---
+
+## ⚙️ Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,js,html,css,php,c,cpp,python,ruby,java,go,rust,mysql" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Shell-Command%20Line-111111?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Web%20Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-Web%20Structure-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Backend%20Development-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-Embedded%20Systems-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-Systems%20Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Security%20Automation-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-Scripting-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Application%20Development-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-Tool%20Development-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Secure%20Systems-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Database%20Testing-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,arduino,raspberrypi" alt="Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-Pentesting-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Reconnaissance-00D084?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-2E2E2E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-Lab%20Environments-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+| Area | Description |
+|---|---|
+| **Security Tools** | Custom scripts and utilities for reconnaissance, scanning, and workflow automation |
+| **IoT Security Labs** | Practical labs for testing embedded devices and IoT attack surfaces |
+| **Firmware Analysis Workflows** | Methods for unpacking, reviewing, and analyzing embedded firmware |
+| **PLC & Automation Projects** | Industrial control and automation-based development projects |
+| **CTF Utilities** | Helper tools for reversing, forensics, OSINT, web, and exploitation challenges |
+| **Web Security Projects** | Secure web applications, testing labs, and vulnerability research environments |
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|---|---|
+| **Scanvanta** | Pentesting automation framework for reconnaissance and vulnerability discovery |
+| **VeyraLock** | File protection and encryption utility |
+| **IoT Security Toolkit** | Tools and notes for embedded device and IoT security testing |
+| **CTF Toolkit** | Practical helpers for CTF, reversing, forensics, and OSINT workflows |
+| **Firmware Lab** | Research environment for firmware extraction and analysis |
+| **PLC Automation Projects** | PLC and embedded automation experiments |
+
+---
+
+## 🧪 Research Interests
+
+- IoT device exploitation and defense
+- Embedded Linux security
+- Firmware secrets and misconfiguration discovery
+- Reverse engineering embedded binaries
+- Web application vulnerability research
+- Network service enumeration
+- Secure automation and PLC logic
+- Hardware debug interface testing
+- Offensive security automation
+- Cybersecurity education and lab building
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VinodPrabhashvara&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧭 Current Direction
+
+I am currently focused on improving my skills in:
+
+- Advanced penetration testing methodology
+- Hardware and IoT security research
+- Firmware analysis and reverse engineering
+- Secure automation and PLC development
+- Offensive security tooling
+- Real-world vulnerability discovery
+- Building professional cybersecurity projects
+
+---
+
+## 💼 Professional Identity
+
+<p align="center">
+  <b>Ethical Hacker • Security Pentester • Hardware & IoT Pentester • PLC Developer</b>
+</p>
+
+<p align="center">
+  I believe strong security comes from understanding how systems fail, how attackers think, and how technology can be improved through responsible research.
+</p>
+
+<p align="center">
+  <code>Research → Analyze → Exploit → Document → Secure</code>
+</p>
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:vinodprabhashvara@gmail.com">
@@ -22,131 +252,10 @@
 
 ---
 
-## Professional Summary
-
-I am a Hardware and IoT Penetration Tester focused on embedded systems security, firmware analysis, reverse engineering, and practical offensive security research.
-
-My work focuses on identifying weaknesses in connected devices, embedded platforms, web applications, and security-critical systems. I build tools, analyze attack surfaces, and develop practical workflows for vulnerability discovery, exploitation, and secure system improvement.
-
----
-
-## Core Expertise
-
-- Hardware and IoT penetration testing
-- Embedded systems security
-- Firmware extraction and analysis
-- Reverse engineering
-- Web application security testing
-- Network reconnaissance and vulnerability assessment
-- CTF and lab-based exploit research
-- Offensive security automation
-
----
-
-## Technical Skills
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,java,php,js,html,css" />
-</p>
-
-### Platforms and Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,arduino" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-00D084?style=flat-square" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-2E2E2E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Security%20Research-111111?style=flat-square" />
-</p>
-
----
-
-## Security Focus Areas
-
-<details>
-  <summary><b>Hardware & IoT Security</b></summary>
-  <br>
-  <ul>
-    <li>IoT device attack surface analysis</li>
-    <li>Embedded communication testing</li>
-    <li>Hardware interface research</li>
-    <li>Device security assessment</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Firmware Analysis</b></summary>
-  <br>
-  <ul>
-    <li>Firmware extraction and unpacking</li>
-    <li>Binary analysis</li>
-    <li>Configuration and secret discovery</li>
-    <li>Static and dynamic firmware review</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Offensive Security</b></summary>
-  <br>
-  <ul>
-    <li>Web application testing</li>
-    <li>Network enumeration</li>
-    <li>Exploit research in lab environments</li>
-    <li>Security automation and tool development</li>
-  </ul>
-</details>
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---|---|
-| **Scanvanta** | Pentesting automation framework for reconnaissance and vulnerability discovery |
-| **IoT Security Toolkit** | Utilities for embedded and IoT device analysis |
-| **CTF Toolkit** | Helper tools for reversing, forensics, OSINT, and challenge solving |
-| **VeyraLock** | File protection and encryption utility |
-
----
-
-## Current Work
-
-- Building practical cybersecurity tools
-- Researching IoT and embedded system attack surfaces
-- Improving firmware analysis workflows
-- Practicing real-world penetration testing methodology
-- Developing security-focused automation projects
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
----
-
-## Professional Philosophy
-
 <p align="center">
   <b>Break systems to understand them. Understand systems to secure them.</b>
 </p>
 
 <p align="center">
-  <code>Research → Exploit → Document → Secure</code>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,100:0A0A0A&height=110&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0A0A0A,100:00D084&height=130&section=footer" />
 </p>
