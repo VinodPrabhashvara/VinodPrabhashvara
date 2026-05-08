@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D084,100:0A0A0A&height=190&section=header&text=Vinod%20Prabhashvara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Security%20Pentester%20%7C%20Hardware%20and%20IoT%20Pentester%20%7C%20PLC%20Developer&descSize=15&descAlignY=58" alt="Header" />
 </p>
 
-<h1 align="center">Vinod Prabhashvara</h1>
-
-<p align="center">
-  <b>Ethical Hacker | Security Pentester | Hardware and IoT Pentester | Embedded Security Researcher | PLC Developer</b>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=Ethical+Hacker+and+Security+Pentester;Hardware+and+IoT+Pentester;Embedded+Security+Researcher;Firmware+Analysis+and+Reverse+Engineering;PLC+Developer+and+Automation+Systems;Break.+Understand.+Secure." alt="Typing SVG" />
 </p>
@@ -40,9 +34,9 @@
 
 I am **Vinod Prabhashvara**, an **Ethical Hacker, Security Pentester, Hardware and IoT Penetration Tester, Embedded Security Researcher, and PLC Developer**.
 
-My work focuses on identifying and understanding security weaknesses in **web applications, networks, embedded systems, IoT devices, firmware, hardware interfaces, and automation systems**.
+My work focuses on identifying, understanding, and documenting security weaknesses in **web applications, networks, embedded systems, IoT devices, firmware, hardware interfaces, automation systems, and PLC-based environments**.
 
-I am interested in how systems work internally, how they fail, and how they can be improved through responsible security research, testing, automation, and secure development.
+I enjoy learning how systems work internally, how they can fail, and how they can be improved through responsible security research, testing, automation, and secure development.
 
 ---
 
@@ -204,18 +198,20 @@ I am interested in how systems work internally, how they fail, and how they can 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinodPrabhashvara&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodPrabhashvara&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Profile-Active-00D084?style=for-the-badge" alt="Active Profile" />
+  <img src="https://img.shields.io/badge/Projects-Security%20Tools-111111?style=for-the-badge" alt="Security Tools" />
+  <img src="https://img.shields.io/badge/Labs-CTF%20and%20Research-00FF9C?style=for-the-badge" alt="CTF and Research" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VinodPrabhashvara&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <b>Building projects in ethical hacking, penetration testing, hardware security, IoT security, firmware analysis, automation, and PLC development.</b>
 </p>
 
 ---
